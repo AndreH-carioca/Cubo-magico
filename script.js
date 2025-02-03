@@ -174,7 +174,7 @@ class World extends Animation {
   }
 
 }
-
+// Corrigido
 function RoundedBoxGeometry( size, radius, radiusSegments ) {
 
   THREE.BufferGeometry.call( this );
